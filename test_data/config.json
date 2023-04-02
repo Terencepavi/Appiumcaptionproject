@@ -1,0 +1,10 @@
+{
+  "port": "4723",
+  "server": "http://localhost:",
+  "device": "local",
+  "platformName": "android",
+  "deviceName": "pixel-4-10",
+  "app": "C:\\APK\\flipkart.apk",
+  "appPackage": "com.flipkart.android",
+  "appActivity": "com.flipkart.android.activity.HomeFragmentHolderActivity",
+}
